@@ -1,1 +1,61 @@
-README
+Answers to Csharp Questions:
+
+Q: What is a namespace?
+A: A namespace is a set of symbols or letters that is used to help organize various objects.
+
+Q: What are value types?
+A: Value types are the actual memory addresses that a given bit of data is occupying.
+
+Q: What are reference types?
+A: Reference types are types that store a reference to their data instead of the actual data itself.
+
+Q: What is an automatic property and how is it useful?
+A: Automatic propterties are used when there is no other logic needed when making a declaration. They are useful because they help programmers save code and work more efficiently.
+
+Q: What is the purpose of using statement?
+A: The using statement allows for the correct use of Disposible objects.
+
+Q: What are dynamic type variables?
+A: These are variables that dont require innitization when they are first declared.
+
+Q: What is the purpose of the is operator?
+A: The is operator is used to check if an obect is type compatiable with another given object.
+
+Q: What are generics and how is using them useful?
+A: This is the practice of writing code that is instantiated for certain given parameters.
+
+Q: What is the scope of a public member of a class?
+A: The scope is that any other object or item can access a public member of any class.
+
+Q: Can you create a function that can accept a varying number of arguments?
+A: Yes you can do this, It would involve use of the keyword "params"
+
+Q: How do you sort an array?
+A: You sort an array by starting in the first position of the array and checking to see if the value is higher than the item to its right. If it is higher than you swap the values. This is done throughout the array and by the end the array should be sorted from smallest to largest.
+
+Q: What is a nullable type and what purpose does it serve?
+A: A nullable type is a value that can be used in both value and reference data types. It is used to check if a given memory space is empty or not.
+
+Q: What is an enumeration?
+A: enumeration is a special type of data that contains a set of constants known as the enumerators list.
+
+Q: What is inheritance?
+A: This is a feature of objects that allows them to learn other behavior and data from other classes.
+
+Q: Is multiple inheritance supported?
+A: No, mulitple inheritance from different classes is not supported on C#.
+
+Q: What is the purpose of as operator
+A: This opperator is used to preform different conversions between compatiable data types.
+
+Q: What is an object?
+A: An object is an instance of a given class that has been created.
+
+Q: What is the difference between a struct and a class?
+A: The main difference between these two is that a class is reference type and a struct is a value type.
+
+Q: What is the difference between continue and break statements?
+A: The difference between these two is that, while they both serve the same purpose, after a contiune is called,the loop is run through 1 more final time.
+
+Q: What is this and how is it used?
+A: the keyword "this" is used to refer to the instance of a given class that is currently selected.
