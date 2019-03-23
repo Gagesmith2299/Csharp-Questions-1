@@ -59,3 +59,107 @@ A: The difference between these two is that, while they both serve the same purp
 
 Q: What is this and how is it used?
 A: the keyword "this" is used to refer to the instance of a given class that is currently selected.
+
+Q: What is try and catch and when are they used?
+A: try and catch are blocks of code that are used to handle exceptions that occur in code. The "try" contains the execption and the catch trys to handle it.
+
+Q: How is exception handling done?
+A: This is done in four steps. The steps are try, catch, finally, and throw.
+
+Q: What is finally and what is its purpose?
+A: Finally is a keyword in C# and its purpose is to be used with a try/catch block. It is a block of code that 
+   runs no matter what the condition of the try block is after terminiation.
+   
+List the differences between Array and ArrayList:
+
+Array: 
+can only store data of a single type
+cannot change their size during an application's runtime.
+are designated as "strongly typed" collections
+
+Array lists:
+can store data of many different types of data
+can dynamically change its size during runtime
+not considered a "strongly typed" collection
+
+Q: What is an object?
+A: An object is merely an instance of the creation of a class that has been defined within C#. It has its own values and is its own seperate entity.
+
+Q: Define constructor.
+A: A constructor is a specific method of a class. It creates an object of the same type with predefined values that are predertermined.
+
+Q: When can var be used to declare a variable and how is the type for the variable determined?
+A: var should be used when the user wants to use a local variable. This allows the compiler to automatically use and find the correct type for the variable.
+
+Q: What is an abstract class?
+A: An abstract class is a class where we only see the classes's main functionality. It is usually used to show that work has not yet been completed.
+
+Q: What is an interface?
+A: An interface contains the properties, events, and methods for a given group of functions. It is up to the class however, for the implementation as this is not in the interface.
+
+Q: What is a method?
+A: A method is a given code block that contains any statements. These statements are then executed by calling the method.
+
+Q: What is a property?
+A: A property is a created member in C#. It could be created by classes and structures. They utalize the use of accessors to read their data.
+
+Q: What is an access specifier?
+A: This is a term that referes to the access that a given object has to the objects around it. They declare what objects have access to certain methods or data as well.
+
+Q: What access specifiers are supported and what do they mean?
+A:  Public: no restrictions
+    protected: access is very limited. Usually to the self contained class
+    internal: Access is only limited to the current build. 
+    private: Access is limited to the similiar type 
+   
+Q: What is a collection?
+A: Collections are special classes in C# that are designated for the use of data retreival and storage.
+
+Q: What is a Hash Table?
+A: A hash table is a special class that contains a collections of various key and value pairs. These are best used when a key is needed to access elements.
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
